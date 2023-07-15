@@ -1,0 +1,8 @@
+"""
+Contributed by BCA_Daniel @BCA_Quantrade / Crypto-Arsenal & Alan Wu @Crypto-Arsenal
+-
+Superposition EMAs are designed to smooth out EMAs and reduce noise interference.
+This strategy utilizes four EMAs and uses the output of the previous EMA as the input for the next EMA.
+
+Strategy designer: BCA_Daniel 2023.07.16
+"""
